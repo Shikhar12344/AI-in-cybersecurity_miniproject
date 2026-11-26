@@ -104,8 +104,7 @@ In operational Security Operations Centers (SOCs), threat detection thresholds a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Amay54/AI-Cybersecurity-Unit1-Mini-Project.git
-cd AI-Cybersecurity-Unit1-Mini-Project
+git clone https://github.com/Shikhar12344/AI-in-cybersecurity_miniproject
 ```
 
 ### 2. Set Up Virtual Environment
